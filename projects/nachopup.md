@@ -3,4 +3,4 @@
 
 ## You can find more information about this *fantastic* Discord bot I spent many hours making at [Nachopup's more official site](https://nachopup.locuroid.com).
 
-{% include button.html url="https://github.com/locuroid/nachopup" %}
+### [Github Repo](https://github.com/locuroid/nachopup)
