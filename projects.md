@@ -4,5 +4,5 @@
 
 ## [Space Dash](https://locuroid.github.io/projects/space-dash)
 
-<button><a href="https://locuroid.github.io/" target="_blank">Back Home</a></button>
+<button><a href="https://locuroid.github.io/">Back Home</a></button>
 
