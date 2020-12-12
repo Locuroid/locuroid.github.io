@@ -1,1 +1,2 @@
-# [Projects](https://locuroid.github.io/projects).
+# Hey, welcome!
+## [Projects](https://locuroid.github.io/projects)
